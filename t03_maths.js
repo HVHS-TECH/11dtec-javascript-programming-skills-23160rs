@@ -5,7 +5,7 @@ Task 3 maths
 
 *********************************/
 
-console.log( "Running maths.js" );
+console.log( "Running t03_maths.js" );
 
 
 //variables 

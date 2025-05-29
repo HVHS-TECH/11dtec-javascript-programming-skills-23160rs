@@ -5,7 +5,7 @@ Task 2 variables
 
 *********************************/
 
-console.log( "Running T1-variabels.js" );
+console.log( "Running T2-variables.js" );
 
 //variables 
 
