@@ -1,2 +1,2 @@
-alert("rhys is bad at clash");
-prompt("nuhan is better")
+alert("Do you like chocolate");
+prompt("rate it one to three")
