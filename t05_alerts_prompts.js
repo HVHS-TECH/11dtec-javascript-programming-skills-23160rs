@@ -1,17 +1,27 @@
 
 /**********************************
-task 1 introduction to varables 
+task 5 introduction to alerts_promts
 ********************************/
 
-console.log( "Running T1-intro.js" );
+console.log( "Running T5-alerts_prompts.js" );
 
 //varables
-
+let username = "Rhys scott"
+let userage = "15"
+let pocketmoney ="10"
+let year = "2025"
+alert
 /**********************************
 maincode
 
 **********************************/
-alert("rhys is bad at clash royale, nuhan is better");
+prompt("whats your name");
+alert("Hi"username,);
+prompt("How old are you");
+alert("nice"username,);
+promt("How much money do you have");
+alert("10 dollars wow");
+
 
 
 /***********************************
