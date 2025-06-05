@@ -9,7 +9,7 @@ let username = "Rhys scott"
 let userage = "15"
 let pocketmoney ="10"
 let year = "2025"
-let cars = ""
+let cars = [""]
 
 
 
