@@ -16,9 +16,9 @@ maincode
 
 **********************************/
 prompt("whats your name");
-alert("Hi"username,);
+alert("Hi",username,);
 prompt("How old are you");
-alert("nice"username,);
+alert("nice",username,);
 promt("How much money do you have");
 alert("10 dollars wow");
 
