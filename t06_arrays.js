@@ -19,7 +19,8 @@ let cars = ["Toyota","Ford","Honda" ];
 maincode
 
 **********************************/
-prompt("on a scale of one to three ")
+prompt("on a scale of 0 to 3 how much do you like cars");
+
 prompt("whats your name");
 alert("Hi", username,);
 prompt("How old are you");
