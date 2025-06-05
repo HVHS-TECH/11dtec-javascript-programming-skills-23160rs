@@ -9,7 +9,8 @@ let username = "Rhys scott"
 let userage = "15"
 let pocketmoney ="10"
 let year = "2025"
-let cars = ["Toyota", ]
+let cars = ["Toyota","Ford","Honda" ];
+
 
 
 
@@ -18,10 +19,11 @@ let cars = ["Toyota", ]
 maincode
 
 **********************************/
+
 prompt("whats your name");
-alert("Hi"username,);
+alert("Hi", username,);
 prompt("How old are you");
-alert("nice"username,);
+alert("nice", username,);
 prompt("How much money do you have");
 alert("10 dollars wow");
 
