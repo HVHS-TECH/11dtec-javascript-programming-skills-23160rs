@@ -18,6 +18,9 @@ let cars = ["Toyota","Ford","Honda" ];
 
 maincode
 
+
+
+
 **********************************/
 prompt("on a scale of 0 to 3 how much do you like cars");
 prompt("what is your favourite car brand out of Toyota, Ford, Honda")
