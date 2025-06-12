@@ -2,7 +2,7 @@
 task 6 introduction to arrays 
 ********************************/
 
-console.log( "Running T5-alerts_prompts.js" );
+console.log( "Running T6-arrays.js" );
 
 //varables
 let username = "Rhys scott"
