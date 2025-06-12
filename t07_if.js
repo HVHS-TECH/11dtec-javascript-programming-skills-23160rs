@@ -1,5 +1,5 @@
 /**********************************
-task 6 introduction to arrays 
+task 7 introduction to if.js
 ********************************/
 
 console.log( "Running T5-alerts_prompts.js" );
