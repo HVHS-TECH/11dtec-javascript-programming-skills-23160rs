@@ -5,9 +5,9 @@ task 7 introduction to if.js
 console.log( "Running T7-If.js" );
 
 //varables
-let username = "Rhys scott"
-let userage = "15"
-let pocketmoney ="10"
+let username
+let userage
+let pocketmoney
 let year = "2025"
 
 
@@ -22,10 +22,16 @@ maincode
 
 **********************************/
 alert("Hi")
-prompt("I predict that you were born in 2009")
-prompt("How much money do you have")
-prompt("you have 10 dollars")
+userage = prompt("how old are you")
+alert("I predict that you were born in " + (year - userage))
+pocketmoney = prompt("How much money do you have")
+prompt("you have " + pocketMoney)
+if (pocketmoney >= 10) {
 alert("you CAN afford a chocolate bar")
+}
+alert("you CAN afford a chocolate bar")
+
+
 
 /***********************************
  Functions
