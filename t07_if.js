@@ -22,10 +22,9 @@ maincode
 
 
 **********************************/
-prompt("on a scale of 0 to 3 how much do you like cars");
-prompt("what is your favourite car brand out of Toyota, Ford, Honda")
-
-
+prompt("Hi")
+alert("I predict that you were born in")
+alert("your poket money is ")
 
 
 /***********************************
