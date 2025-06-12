@@ -23,8 +23,9 @@ maincode
 **********************************/
 alert("Hi")
 prompt("I predict that you were born in")
-prompt("your poket money is dollars")
-alert("you can afford a chocolate bar")
+prompt("How much money do you have")
+prompt("you have 10 dollars")
+alert("you CAN afford a chocolate bar")
 
 /***********************************
  Functions
