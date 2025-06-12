@@ -27,10 +27,10 @@ alert("I predict that you were born in " + (year - userage))
 pocketmoney = prompt("How much money do you have")
 prompt("you have " + pocketMoney)
 if (pocketmoney >= 10) {
+alert("you CAN NOT afford a chocolate bar")
+} else {
 alert("you CAN afford a chocolate bar")
 }
-alert("you CAN afford a chocolate bar")
-
 
 
 /***********************************
