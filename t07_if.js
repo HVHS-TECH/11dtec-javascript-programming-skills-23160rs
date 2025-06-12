@@ -22,7 +22,7 @@ maincode
 
 **********************************/
 alert("Hi")
-prompt("I predict that you were born in")
+prompt("I predict that you were born in 2009")
 prompt("How much money do you have")
 prompt("you have 10 dollars")
 alert("you CAN afford a chocolate bar")
