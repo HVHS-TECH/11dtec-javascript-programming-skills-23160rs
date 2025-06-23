@@ -12,7 +12,7 @@ maincode
 **********************************/
 getFavcolour();
 askUserage();
-
+askUserMoney();
 /***********************************
  Functions
  **********************************/
@@ -24,3 +24,6 @@ function getFavcolour() {
 userFavColour = prompt("what is your favourite colour?")
 alert("your favourite colour is: " + userFavColour)
 }
+function askUserMoney() {
+askUserMoney = prompt("How much money do you have?")
+alert
