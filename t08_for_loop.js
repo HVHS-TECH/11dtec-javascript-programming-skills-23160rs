@@ -1,6 +1,6 @@
 
 /**********************************
-task 1 introduction to loops
+task 8 introduction to loops
 ********************************/
 
 console.log( "Running T8-for-loop.js" );
