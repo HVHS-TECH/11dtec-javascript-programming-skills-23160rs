@@ -27,4 +27,8 @@ alert("your favourite colour is: " + userFavColour)
 function askUserMoney() {
 askUserMoney = prompt("How much money do you have?")
 alert("You have: " + askUserMoney )
-if(askUserMoney <=5)}
+if(askUserMoney <=5)
+alert("you CAN NOT afford a chocolate bar")
+else 
+alert("you CAN afford a chocolate bar")
+}
