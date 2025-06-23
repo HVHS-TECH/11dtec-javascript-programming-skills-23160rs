@@ -26,4 +26,4 @@ alert("your favourite colour is: " + userFavColour)
 }
 function askUserMoney() {
 askUserMoney = prompt("How much money do you have?")
-alert
+alert("You have: " + askUserMoney )
